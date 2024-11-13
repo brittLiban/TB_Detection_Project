@@ -1,0 +1,9 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore data files (adjust this if you want to share data)
+data/
